@@ -10,5 +10,5 @@ para evaluar estos. Dichos valores fueron seleccionados a partir de un mapa de c
 2D a fin de graficar la calidad de los vinos a partir del alcohol y los sulfatos.
 
 ## Valores de ejemplo utilizados y su respectivo resultado
-Ácido cítrico | Sulfatos | Alcohol | Resultado
+Ácido cítrico | Sulfatos | Alcohol | Resultado |
 0 | 0 | 0 | 4
