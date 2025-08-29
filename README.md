@@ -9,5 +9,6 @@ para evaluar estos. Dichos valores fueron seleccionados a partir de un mapa de c
 (heatmap) que resultó de gran ayuda para la tarea. Finalmente, se creó un mapa de dispersión
 2D a fin de graficar la calidad de los vinos a partir del alcohol y los sulfatos.
 
-## Valores de ejemlo utilizados y su respectivo resultado
-Ácido cítrico 
+## Valores de ejemplo utilizados y su respectivo resultado
+Ácido cítrico | Sulfatos | Alcohol | Resultado
+--- | --- | --- | ---
