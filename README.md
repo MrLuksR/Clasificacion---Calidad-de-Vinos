@@ -14,6 +14,4 @@ para evaluar estos. Dichos valores fueron seleccionados a partir de un mapa de c
 --- | --- | --- | ---
 0.0 | 0.0 | 0.0 | 4
 0.05 | 0.67 | 9.2 | 5
---- | --- | --- | ---
 0.003 | 0.88 | 9.0 | 6
---- | --- | --- | ---
