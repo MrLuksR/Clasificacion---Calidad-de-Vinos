@@ -10,6 +10,10 @@ para evaluar estos. Dichos valores fueron seleccionados a partir de un mapa de c
 2D a fin de graficar la calidad de los vinos a partir del alcohol y los sulfatos.
 
 ## Valores de ejemplo utilizados y su respectivo resultado
+Se utilizaron valores al azar para probar las diferentes calidades de los vinos. Estos
+valores fueron agregados de manera manual a fin de probar el poder de predcición del
+modelo.
+
 Ácido cítrico | Sulfatos | Alcohol | Resultado
 --- | --- | --- | ---
 0.0 | 0.0 | 0.0 | 4
